@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: admin/blocks/_available/temp-01/edit.js:137
+msgid "BACKGROUND"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:162
+msgid "BRAND"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:166
+msgid "Max Logo Width (px)"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:175
+msgid "Alignment:"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:179
+msgid "Left"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:180
+msgid "Center"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:181
+msgid "Right"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:190
+msgid "TYPOGRAPHY"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:196
+msgid "Text color"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:199
+msgid "Fonts"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:219
+msgid "Body"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:261
+msgid "Title"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:271
+msgid "Subtitle"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:280
+msgid "Description"
+msgstr ""
+
+#: admin/blocks/_available/temp-01/edit.js:287
+msgid "Copyright"
+msgstr ""

@@ -1,0 +1,153 @@
+# Copyright (C) 2019 coming-soon-blocks
+# This file is distributed under the same license as the coming-soon-blocks package.
+msgid ""
+msgstr ""
+"Project-Id-Version: coming-soon-blocks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: PixelThrone\n"
+"Last-Translator: Helder Vilela from Pixelthrone\n"
+"Report-Msgid-Bugs-To: htts://pixelthrone.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: __build/coming-soon-blocks/coming-soon-blocks.php:191, __build/coming-soon-blocks/coming-soon-blocks.php:204
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:63, __build/coming-soon-blocks/admin/config.settings.php:64, __build/coming-soon-blocks/admin/config.settings.php:76, __build/coming-soon-blocks/admin/config.settings.php:78, __build/coming-soon-blocks/admin/config.settings.php:80
+msgid "Coming Soon"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:79, __build/coming-soon-blocks/admin/config.settings.php:81
+msgid "Page"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:82
+msgid "All Pages"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:83
+msgid "View Pages"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:84, __build/coming-soon-blocks/admin/config.settings.php:85
+msgid "Add new"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:86
+msgid "Edit Pages"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:87
+msgid "Update"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:88
+msgid "Search pages"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:89
+msgid "No pages found"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:90
+msgid "No pages found in Trash"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:120
+msgid "%s Add Coming soon"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:126
+msgid "%s Settings"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:136
+msgid "Contact Us"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:142
+msgid "Support Forum"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:149
+msgid "Upgrade"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/config.settings.php:149
+msgid "Pricing"
+msgstr ""
+
+#: __build/coming-soon-blocks/frontend/init.php:224
+msgid "Only authenticated users can access the REST API."
+msgstr ""
+
+#: __build/coming-soon-blocks/lib/Block_Editor_Checker.php:81
+msgid "Some changes are required."
+msgstr ""
+
+#: __build/coming-soon-blocks/lib/Block_Editor_Checker.php:82
+msgid "In order to use the %sComing Soon Blocks%s plugin it is required that %sthese options%s have the following settings:"
+msgstr ""
+
+#: __build/coming-soon-blocks/lib/Block_Editor_Checker.php:84
+msgid "— Allow users to switch editors : %sYes %s"
+msgstr ""
+
+#: __build/coming-soon-blocks/lib/Block_Editor_Checker.php:100
+msgid "The Coming Soon Blocks plugin cannot be used with your current WordPress version. Please update to the latest version."
+msgstr ""
+
+#: __build/coming-soon-blocks/lib/Block_Editor_Checker.php:101
+msgid "Thank you for understanding."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/api/UnlockPage.php:77, __build/coming-soon-blocks/admin/api/UnlockPage.php:106
+msgid "No naughty business please!"
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/api/UnlockPage.php:91
+msgid "The page will be updated."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/api/UnlockPage.php:101
+msgid "The password is not correct."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/api/UpdatePost.php:73
+msgid "User has no permissions to edit the page."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/api/UpdatePost.php:89
+msgid "Page updated."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/blocks/Init.php:343
+msgid "Oops, we're in the wrong editor."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/blocks/Init.php:344
+msgid "%sSwitch to Block Editor%s to start creating your coming soon pages."
+msgstr ""
+
+#: __build/coming-soon-blocks/frontend/components/cookie-notice.php:20
+msgid "Got it, Thanks!"
+msgstr ""
+
+#: __build/coming-soon-blocks/frontend/components/unlock-page.php:23
+msgid "This site is password protected, view by typing the password."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/blocks/_available/temp-04/attributes.php:35
+msgid "IF YOU DO IT RIGHT, IT WILL LAST FOREVER."
+msgstr ""
+
+#: __build/coming-soon-blocks/admin/blocks/_available/temp-04/attributes.php:39
+msgid "STAY IN TOUCH"
+msgstr ""
